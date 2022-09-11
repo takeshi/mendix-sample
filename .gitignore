@@ -15,3 +15,5 @@
 !/javascriptsource/**/node_modules/
 /nativemobile/builds/
 *.lock
+/widgetsample.mpr.bak
+/widgetsample.mpr.lock
